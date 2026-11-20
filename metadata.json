@@ -1,0 +1,6 @@
+{
+  "name": "PinkSort — Waste Sorting & Recycling Guide",
+  "description": "Interactive pink-themed guide and sorting simulator for Biodegradable, Recyclable, and Non-Biodegradable waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
